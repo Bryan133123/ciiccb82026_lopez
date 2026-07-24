@@ -1,10 +1,12 @@
 package Task;
-
+/* Date: 7/24/2026
+   Author: @Bryan133123
+ */
 public class Task2 {
     public static void main(String[] args) {
-        //primitive data types
+        //this is only for checking
         String task2 = "H3110 w0r1d 2.0 true";
-        
+        //primitive data types
         char c = 'H';
         short s = 31;
         byte b = 10;
@@ -22,10 +24,7 @@ public class Task2 {
 
         //The output of the program should be: H3110 w0r1d 2.0 true
         //to use char c = 'H', insert string in front; 
-         
         System.out.println("" + c + s + b + " " + "w" + i + "r" + (s-30) + "d" + " " + f + " " + bol);
         System.out.println("Check output based on requirements: " + task2);
-
-
     }
 }
