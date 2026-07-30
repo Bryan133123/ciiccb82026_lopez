@@ -10,10 +10,11 @@ public class Task3 {
         boolean b2 = d.equals(b + "!");
         boolean b3 = !c.equals(a);
 
-        // This is to check the values of b1, b2, and b3
+        // This is to check the values of b1, b2, and b3 --start
         System.out.println(b1);
         System.out.println(b2);
         System.out.println(b3);
+        // --end
         
         if (b1 && b2 && b3) {
             System.out.println("Success!");
