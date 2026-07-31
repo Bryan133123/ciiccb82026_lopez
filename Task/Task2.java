@@ -2,6 +2,7 @@ package Task;
 /* Date: 7/24/2026
    Author: @Bryan133123
  */
+
 public class Task2 {
     public static void main(String[] args) {
         //this is only for checking
